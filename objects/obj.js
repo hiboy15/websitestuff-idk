@@ -1,0 +1,2 @@
+/*object */
+  console.log("example")
